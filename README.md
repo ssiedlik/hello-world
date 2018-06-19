@@ -4,3 +4,5 @@ My name is Sarah and I live in Nebraska.  I teach math and computer science at a
 This has now been updated locally in Notepad!
 
 Now I'm trying to update this online.
+
+I also have three children who are adorable. :) And I'm pretty awesome! Ciao!
