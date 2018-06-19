@@ -1,8 +1,17 @@
 # hello-world
 Hello World intro lesson
-My name is Sarah and I live in Nebraska.  I teach math and computer science at a high school.
+My name is **Sarah** and I live in *Nebraska*.  I teach math and computer science at a high school.
 This has now been updated locally in Notepad!
 
 Now I'm trying to update this online.
 
-I also have three children who are adorable. :) And I'm pretty awesome! Ciao!
+I also have ~~two~~  three children who are adorable. :) And I'm pretty awesome! Ciao!
+My children are as follows:
+
+Name | Age
+------------ | -------------
+Declan | 6 years
+Maddy | 6 years
+Laura | 9 months
+
+:heart:
